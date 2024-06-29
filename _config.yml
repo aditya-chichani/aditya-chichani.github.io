@@ -22,7 +22,7 @@ title: CIKM MMSR '24
 navbar-links:
   Home: "aboutme"
   Accepted Papers:
-  Organizers: "https://deanattali.com"
+  Organizers:
 
 ################
 # --- Logo --- #
@@ -292,7 +292,4 @@ exclude:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-
-# Beautiful Jekyll / Dean Attali
-# 2fc73a3a967e97599c9763d05e564189
 
