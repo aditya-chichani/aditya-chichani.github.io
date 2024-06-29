@@ -6,7 +6,7 @@ subtitle: 1st Workshop on Multimodal Search and Recommendations
 
 ## Overview
 
-With the advent of multimodal LLMs like GPT-4o and Gemini, the potential for multimodal search and recommendations has significantly increased.While traditional search engines often augment user queries with session and geographical data, they primarily rely on textual queries. In contrast, multimodal systems offer next-gen customer experience by creating a shared embedding space for text, images, audio, etc. These advancements enable more accurate, personalized recommendations, enhancing user satisfaction and engagement. 
+With the advent of multimodal LLMs like GPT-4o and Gemini, the potential for multimodal search and recommendations has significantly increased. While traditional search engines often augment user queries with session and geographical data, they primarily rely on textual queries. In contrast, multimodal systems offer next-gen customer experience by creating a shared embedding space for text, images, audio, etc. These advancements enable more accurate, personalized recommendations, enhancing user satisfaction and engagement. 
 
 MMSR will be a **full day** workshop that will explore the latest advancements, challenges, and applications of multimodal search and recommendations.
 
