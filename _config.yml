@@ -8,9 +8,9 @@ title: CIKM MMSR '24
 ###############################################
 
 navbar-links:
-  Home: "aboutme"
-  Accepted Papers:
-  Organizers:
+  Home: ""
+  Accepted Papers: "acceptedpapers"
+  Organizers: "organizers"
 
 ################
 # --- Logo --- #
