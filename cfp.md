@@ -1,7 +1,7 @@
 ---
 layout: page
 ---
-# Call for Papers
+## Call for Papers
 
 This workshop aims to unite the research community to address multimodal challenges specifically
 in the search and recommendation domain of IR. Given the recent advancements in multimodal LLMs that can democratize multimodal IR, we will use this workshop as a dedicated platform to discuss the latest research and challenges in this field.

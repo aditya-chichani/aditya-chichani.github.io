@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# CIKM MMSR ‘24 Organizers
+## CIKM MMSR ‘24 Organizers
 
 **Aditya Chichani** is a Senior Data Scientist at Walmart, focusing on search ranking and intent
 understanding. Aditya completed his Master’s from UC Berkeley with Fung excellence
