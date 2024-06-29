@@ -8,7 +8,7 @@ subtitle: 1st Workshop on Multimodal Search and Recommendations
 
 With the advent of multimodal LLMs like GPT-4o and Gemini, the potential for multimodal search and recommendations has significantly increased.While traditional search engines often augment user queries with session and geographical data, they primarily rely on textual queries. In contrast, multimodal systems offer next-gen customer experience by creating a shared embedding space for text, images, audio, etc. These advancements enable more accurate, personalized recommendations, enhancing user satisfaction and engagement. 
 
-CIKM Workshop on Multimodal Search and Recommendations (MMSR) will be a **full day** workshop that will explore the latest advancements, challenges, and applications of multimodal search and recommendations.
+Workshop on **M**ulti**M**odal **S**earch and **R**ecommendations (MMSR) will be a **full day** workshop that will explore the latest advancements, challenges, and applications of multimodal search and recommendations.
 
 ## Workshop Program Format
 
@@ -16,7 +16,7 @@ The workshop will feature talks by keynote speakers, research paper presentation
 A hybrid format will be offered to accommodate both in-person and virtual attendance, ensuring broad participation and engagement.
 
 - 2 invited talks (1 from academia, 1 from industry)
-- ng (15 min) contributed talks
+- Long (15 min) contributed talks
 - Lightning (5 min) contributed talks with discussion session
 - Panel discussion on the workshop theme
 
