@@ -8,7 +8,7 @@ title: CIKM MMSR '24
 ###############################################
 
 navbar-links:
-  Home: ""
+  Home: "index"
   Accepted Papers: "acceptedpapers"
   Organizers: "organizers"
 
