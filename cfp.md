@@ -52,6 +52,7 @@ Submissions must describe original work not previously published, not accepted f
 
 - Long paper limit: 15 pages. 
 - Short paper limit: 8 pages.
+
 {: .box-note}
 References are not counted in the page limit.
 
