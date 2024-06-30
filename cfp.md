@@ -2,10 +2,9 @@
 layout: page
 title: ""
 ---
-# Call for Papers
+# Call for Papers {style=text-align:center}
 
-This workshop aims to unite the research community to address multimodal challenges specifically
-in the search and recommendation domain of IR. Given the recent advancements in multimodal LLMs that can democratize multimodal IR, we will use this workshop as a dedicated platform to discuss the latest research and challenges in this field.
+This workshop aims to unite the research community to address multimodal challenges in search and recommendation. With recent advancements in multimodal LLMs that can democratize multimodal IR, this workshop will serve as a dedicated platform to discuss the latest research and challenges in the field.
 
 ### Theme : Transforming Search and Recommendations with Multimodal Approaches
 
@@ -43,13 +42,13 @@ real estate)
 
 ### Submission Instructions
 
-All papers will be peer reviewed by the program committee and judged by their relevance to the workshop and their potential to generate discussion. 
+All papers will be peer-reviewed by the program committee and judged based on their relevance to the workshop and their potential to generate discussion. 
 
-All submissions must be in PDF formatted according to the latest [CEUR single column format](https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/wqyfdgftmcfw). The short (8-page) and long (15-page) limits are extended to account for this.
+Submissions must be in PDF format, following the latest [CEUR single column format](https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/wqyfdgftmcfw). The page limits are **8** pages for short papers and **15** pages for long papers.
 
-For instructions and LaTeX/Overleaf/docx templates, see [here](https://ceur-ws.org/HOWTOSUBMIT.html#CEURART). Read up to and including the “License footnote in paper PDFs” section. Please Use Emphasizing Capitalized Style for Paper Titles.
+For instructions and LaTeX/Overleaf/docx templates, refer to [CEUR's submission guidelines](https://ceur-ws.org/HOWTOSUBMIT.html#CEURART), reading up to and including the “License footnote in paper PDFs” section. Use Emphasizing Capitalized Style for Paper Titles.
 
-Submissions must describe work that is not previously published, not accepted for publication elsewhere, and not currently under review elsewhere. All submissions must be in English. The workshop follows a **single-blind** reviewing process. We do not accept anonymized submissions. Please note that at least one of the authors of each accepted paper **must** register for the workshop and present the paper.
+Submissions must describe original work not previously published, not accepted for publication, and not under review elsewhere. All submissions must be in English. The workshop follows a **single-blind** review process and does not accept anonymized submissions. At least one author of each accepted paper **must** register for the workshop and present the paper.
 
 - Long paper limit: 15 pages. 
 - Short paper limit: 8 pages.
