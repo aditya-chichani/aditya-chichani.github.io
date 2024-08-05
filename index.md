@@ -33,20 +33,21 @@ All deadlines are at 11: 59 P.M. [AoE](https://www.worldtimeserver.com/time-zone
 
 ## Keynote Speakers
 
-<div style="display: flex; align-items: center; margin-bottom: 40px;">
-  <img src="assets/img/vamsi.jpeg" alt="Vamsi Salaka" style="border-radius: 50%; width: 100%; max-width: 150px; height: auto; margin-right: 20px;">
-  <div>
-    <strong><a href="https://www.linkedin.com/in/vamsisalaka/" style="text-decoration: none; color: black;">Dr. Vamsi Salaka</a></strong> is the Head of Visual Search at Amazon where he oversees initiatives to build cutting edge image and multimodal search systems.
+<div style="margin-bottom: 2rem;">
+  <div style="display: flex; align-items: center; margin-bottom: 2rem;">
+    <img src="assets/img/vamsi.jpeg" alt="Vamsi Salaka" style="border-radius: 50%; width: 100%; max-width: 150px; height: auto; margin-right: 1rem;">
+    <div>
+      <strong><a href="https://www.linkedin.com/in/vamsisalaka/" style="text-decoration: none; color: black;">Dr. Vamsi Salaka</a></strong> is the Head of Visual Search at Amazon where he oversees initiatives to build cutting edge image and multimodal search systems.
+    </div>
+  </div>
+
+  <div style="display: flex; align-items: center; margin-bottom: 2rem;">
+    <img src="assets/img/yubin.jpeg" alt="Yubin Kim" style="border-radius: 50%; width: 100%; max-width: 150px; height: auto; margin-right: 1rem;">
+    <div>
+      <strong><a href="https://www.linkedin.com/in/yubink/" style="text-decoration: none; color: black;">Dr. Yubin Kim</a></strong> is the Head of Engineering at Vody, a multimodal GenAI startup. Dr. Kim is a seasoned search & recommendations leader with experience in pragmatically solving multimodal problems at scale.
+    </div>
   </div>
 </div>
-
-<div style="display: flex; align-items: center; margin-bottom: 40px;">
-  <img src="assets/img/yubin.jpeg" alt="Yubin Kim" style="border-radius: 50%; width: 100%; max-width: 150px; height: auto; margin-right: 20px;">
-  <div>
-    <strong><a href="https://www.linkedin.com/in/yubink/" style="text-decoration: none; color: black;">Dr. Yubin Kim</a></strong> is the Head of Engineering at Vody, a multimodal GenAI startup. Dr. Kim is a seasoned search & recommendations leader with experience in pragmatically solving multimodal problems at scale.
-  </div>
-</div>
-
 
 ## Organizers
 
