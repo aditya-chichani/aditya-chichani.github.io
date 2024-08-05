@@ -51,7 +51,7 @@ All deadlines are at 11: 59 P.M. [AoE](https://www.worldtimeserver.com/time-zone
 
 ## Organizers
 
-<div style="display: flex; flex-wrap: wrap; gap: 1rem;">
+<div style="margin-top: 2rem;display: flex; flex-wrap: wrap; gap: 1rem;">
   <div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
     <img src="assets/img/aditya.jpg" alt="Aditya Chichani" style="border-radius: 50%; width: 100%; max-width: 150px; height: auto; margin-bottom: 1rem;">
     <strong>Aditya Chichani</strong>
