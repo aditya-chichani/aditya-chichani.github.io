@@ -4,10 +4,6 @@ title: CIKM MMSR ‘24
 subtitle: 1st Workshop on Multimodal Search and Recommendations
 ---
 
-<head>
- <link href="assets/css/bootstrap.css" rel="stylesheet">
- </head>
-
 ## Overview
 
 The advent of multimodal LLMs like GPT-4o and Gemini has significantly boosted the potential for multimodal search and recommendations. Traditional search engines rely mainly on textual queries, supplemented by session and geographical data. In contrast, multimodal systems create a shared embedding space for text, images, audio, and more, enabling next-gen customer experiences. These advancements lead to more accurate and personalized recommendations, enhancing user satisfaction and engagement.
