@@ -33,8 +33,8 @@ All deadlines are at 11: 59 P.M. [AoE](https://www.worldtimeserver.com/time-zone
 
 ## Keynote Speakers
 
-<div style="margin-bottom: 2rem;">
-  <div style="display: flex; align-items: center; margin-bottom: 2rem;">
+<div style="margin-top: 3rem;margin-bottom: 4rem;">
+  <div style="display: flex; align-items: center; margin-bottom: 3rem;">
     <img src="assets/img/vamsi.jpeg" alt="Vamsi Salaka" style="border-radius: 50%; width: 100%; max-width: 150px; height: auto; margin-right: 1rem;">
     <div>
       <strong><a href="https://www.linkedin.com/in/vamsisalaka/" style="text-decoration: none; color: black;">Dr. Vamsi Salaka</a></strong> is the Head of Visual Search at Amazon where he oversees initiatives to build cutting edge image and multimodal search systems.
@@ -51,23 +51,24 @@ All deadlines are at 11: 59 P.M. [AoE](https://www.worldtimeserver.com/time-zone
 
 ## Organizers
 
-<table style="border-collapse: collapse; width: 100%;">
-  <tr>
-    <td style="border: none; text-align: center; padding: 10px;">
-      <img src="assets/img/aditya.jpg" alt="Aditya Chichani" style="border-radius: 50%; width: 100%; max-width: 150px; height: auto;"><br>
-      <strong>Aditya Chichani</strong>
-    </td>
-    <td style="border: none; text-align: center; padding: 10px;">
-      <img src="assets/img/surya.jpg" alt="Surya Kallumadi" style="border-radius: 50%; width: 100%; max-width: 150px; height: auto;"><br>
-      <strong>Surya Kallumadi</strong>
-    </td>
-    <td style="border: none; text-align: center; padding: 10px;">
-      <img src="assets/img/tracy.jpeg" alt="Tracy Holloway King" style="border-radius: 50%; width: 100%; max-width: 150px; height: auto;"><br>
-      <strong>Tracy Holloway King</strong>
-    </td>
-    <td style="border: none; text-align: center; padding: 10px;">
-      <img src="assets/img/andrei.jpeg" alt="Andrei Lopatenko" style="border-radius: 50%; width: 100%; max-width: 150px; height: auto;"><br>
-      <strong>Andrei Lopatenko</strong>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; flex-wrap: wrap; gap: 3rem;">
+  <div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
+    <img src="assets/img/aditya.jpg" alt="Aditya Chichani" style="border-radius: 50%; width: 100%; max-width: 150px; height: auto; margin-bottom: 1rem;">
+    <strong>Aditya Chichani</strong>
+  </div>
+  
+  <div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
+    <img src="assets/img/surya.jpg" alt="Surya Kallumadi" style="border-radius: 50%; width: 100%; max-width: 150px; height: auto; margin-bottom: 1rem;">
+    <strong>Surya Kallumadi</strong>
+  </div>
+
+  <div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
+    <img src="assets/img/tracy.jpeg" alt="Tracy Holloway King" style="border-radius: 50%; width: 100%; max-width: 150px; height: auto; margin-bottom: 1rem;">
+    <strong>Tracy Holloway King</strong>
+  </div>
+
+  <div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
+    <img src="assets/img/andrei.jpeg" alt="Andrei Lopatenko" style="border-radius: 50%; width: 100%; max-width: 150px; height: auto; margin-bottom: 1rem;">
+    <strong>Andrei Lopatenko</strong>
+  </div>
+</div>
