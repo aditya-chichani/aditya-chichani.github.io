@@ -1,10 +1,12 @@
 ---
 layout: page
-title: CIKM MMSR ‘24 
+title: CIKM MMSR ‘24
 subtitle: 1st Workshop on Multimodal Search and Recommendations
 ---
 
- <link href="css/bootstrap.css" rel="stylesheet">
+<head>
+ <link href="assets/css/bootstrap.css" rel="stylesheet">
+ </head>
 
 ## Overview
 
@@ -26,48 +28,49 @@ The workshop will include keynote speeches, research paper presentations, intera
 {: .box-note}
 All deadlines are at 11: 59 P.M. [AoE](https://www.worldtimeserver.com/time-zones/aoe/)
 
-
-| Task                                    | Deadline              |
-| --------------------------------------- | --------------------- |
-| Paper submission deadline               | July 29, 2024         |
-| Notification of acceptance              | August 30, 2024       |
-| Camera Ready Version of Papers Due      | September 30, 2024    |
-| MMSR '24 Workshop                       |  October 25, 2024     |
+| Task                               | Deadline           |
+| ---------------------------------- | ------------------ |
+| Paper submission deadline          | July 29, 2024      |
+| Notification of acceptance         | August 30, 2024    |
+| Camera Ready Version of Papers Due | September 30, 2024 |
+| MMSR '24 Workshop                  | October 25, 2024   |
 
 ## Keynote Speakers
 
-<style>
-img[src$="#avatar"] {
-  margin: 0 auto;
-  border-radius: 50%;
-  max-width: 30%;
-  height: auto;
-}
-</style>
+<div style="display: flex; align-items: center; margin-bottom: 40px;">
+  <img src="assets/img/vamsi.jpeg" alt="Vamsi Salaka" style="border-radius: 50%; width: 100%; max-width: 150px; height: auto; margin-right: 20px;">
+  <div>
+    <strong><a href="https://www.linkedin.com/in/vamsisalaka/" style="text-decoration: none; color: black;">Dr. Vamsi Salaka</a></strong> is the Head of Visual Search at Amazon where he oversees initiatives to build cutting edge image and multimodal search systems.
+  </div>
+</div>
 
-<img src="assets/img/vamsi.jpeg" class="img-responsive img-circle" alt="">
-
-[**Dr. Vamsi Salaka**](https://www.linkedin.com/in/vamsisalaka/) is the Head of Visual Search at Amazon where he oversees initiatives to  build cutting edge image and multimodal search systems.
-
-<img src="assets/img/yubin.jpeg" class="img-responsive img-circle" alt="">
-
-[**Dr. Yubin Kim**](https://www.linkedin.com/in/yubink/) is the Head of Engineering at Vody, a multimodal GenAI startup. Dr. Kim is a seasoned search & recommendations leader with experience in pragmatically solving multimodal problems at scale.
+<div style="display: flex; align-items: center; margin-bottom: 40px;">
+  <img src="assets/img/yubin.jpeg" alt="Yubin Kim" style="border-radius: 50%; width: 100%; max-width: 150px; height: auto; margin-right: 20px;">
+  <div>
+    <strong><a href="https://www.linkedin.com/in/yubink/" style="text-decoration: none; color: black;">Dr. Yubin Kim</a></strong> is the Head of Engineering at Vody, a multimodal GenAI startup. Dr. Kim is a seasoned search & recommendations leader with experience in pragmatically solving multimodal problems at scale.
+  </div>
+</div>
 
 
 ## Organizers
 
-<img src="assets/img/aditya.jpg" class="img-responsive img-circle" alt="">
-
-**Aditya Chichani**
-
-<img src="assets/img/surya.jpg" class="img-responsive img-circle" alt="">
-
-**Surya Kallumadi**
-
-<img src="assets/img/tracy.jpeg" class="img-responsive img-circle" alt="">
-
-**Tracy Holloway King**
-
-<img src="assets/img/andrei.jpeg" class="img-responsive img-circle" alt="">
-
-**Andrei Lopatenko**
+<table style="border-collapse: collapse; width: 100%;">
+  <tr>
+    <td style="border: none; text-align: center; padding: 10px;">
+      <img src="assets/img/aditya.jpg" alt="Aditya Chichani" style="border-radius: 50%; width: 100%; max-width: 150px; height: auto;"><br>
+      <strong>Aditya Chichani</strong>
+    </td>
+    <td style="border: none; text-align: center; padding: 10px;">
+      <img src="assets/img/surya.jpg" alt="Surya Kallumadi" style="border-radius: 50%; width: 100%; max-width: 150px; height: auto;"><br>
+      <strong>Surya Kallumadi</strong>
+    </td>
+    <td style="border: none; text-align: center; padding: 10px;">
+      <img src="assets/img/tracy.jpeg" alt="Tracy Holloway King" style="border-radius: 50%; width: 100%; max-width: 150px; height: auto;"><br>
+      <strong>Tracy Holloway King</strong>
+    </td>
+    <td style="border: none; text-align: center; padding: 10px;">
+      <img src="assets/img/andrei.jpeg" alt="Andrei Lopatenko" style="border-radius: 50%; width: 100%; max-width: 150px; height: auto;"><br>
+      <strong>Andrei Lopatenko</strong>
+    </td>
+  </tr>
+</table>
