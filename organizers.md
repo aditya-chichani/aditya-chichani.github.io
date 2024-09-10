@@ -17,4 +17,3 @@ subtitle: "CIKM MMSR ‘24 ORGANIZERS"
 on search, recommendation, and personalization engines at Google, Apple, Walmart, eBay, and
 Zillow. At Zillow, he was VP of Engineering and AI, leading teams specializing in AI search and
 recommendation. Dr. Lopatenko earned his PhD from the University of Manchester, UK.
-
