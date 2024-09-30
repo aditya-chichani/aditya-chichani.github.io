@@ -14,9 +14,9 @@ MMSR will be a **full-day** workshop at [CIKM 2024](https://cikm2024.org/). The 
 
 ## Workshop Program Format
 
-The workshop will include keynote speeches, research paper presentations, interactive networking sessions, and a panel discussion on **_Emerging trends and challenges in multimodal search and recommendations_**. The workshop will primarily be in person. 
+The workshop will include keynote speeches, research paper presentations, interactive networking sessions, and a panel discussion on **_Emerging trends and challenges in multimodal search and recommendations_**. The workshop will primarily be in person.
 
-_*Detailed schedule will be posted here closer to the workshop date._
+_\*Detailed schedule will be posted here closer to the workshop date._
 
 - 2 invited talks
 - Long (20 min) contributed talks
@@ -40,6 +40,14 @@ _*Detailed schedule will be posted here closer to the workshop date._
       <strong><a href="https://www.linkedin.com/in/yubink/" style="text-decoration: none;color: black;">Dr. Yubin Kim</a></strong> is the Head of Engineering at Vody, a multimodal GenAI startup. Dr. Kim is a seasoned search & recommendations leader with experience in pragmatically solving multimodal problems at scale.
     </div>
   </div>
+
+  <div style="display: flex; align-items: center; margin-bottom: 3rem;">
+    <img src="assets/img/chirag.jpg" alt="Chirag Shah" style="border-radius: 50%; width: 100%; max-width: 150px; height: auto; margin-right: 1rem;">
+    <div>
+      <strong><a href="https://chiragshah.org/" style="text-decoration: none;color: black;">Dr. Chirag Shah</a></strong> is a Professor at the University of Washington, Seattle. He is the Director of InfoSeeking Lab and Co-Director of RAISE, a center for responsible AI. His research involves building and studying intelligent information access systems, focusing on task-oriented search, proactive recommendations, and conversational systems. In addition to creating AI-driven information access systems that provide more personalized reactive and proactive recommendations, he is also focusing on making such systems robust and trustworthy.
+    </div>
+  </div>
+
 </div>
 
 ## Organizers
@@ -73,10 +81,9 @@ _*Detailed schedule will be posted here closer to the workshop date._
 {: .box-note}
 All deadlines are at 23: 59 P.M. [GMT](https://www.worldtimeserver.com/time-zones/gmt/)
 
-| Task                                                                                         | Deadline                                |
-| -------------------------------------------------------------------------------------------- | --------------------------------------- |
-| ~~[Paper submission deadline](https://openreview.net/group?id=ACM.org/CIKM/2024/Workshop/MMSR)~~ | ~~August 16, 2024~~ |
-| ~~Notification of acceptance~~                                                                   | ~~August 30, 2024~~                         |
-| **[Camera Ready Version of Papers Due](cfp.md#camera-ready-instructions)**                                                           | **September 30, 2024**                      |
-| MMSR '24 Full Day Workshop                                                                            | **October 25, 2024**                        |
-
+| Task                                                                                             | Deadline               |
+| ------------------------------------------------------------------------------------------------ | ---------------------- |
+| ~~[Paper submission deadline](https://openreview.net/group?id=ACM.org/CIKM/2024/Workshop/MMSR)~~ | ~~August 16, 2024~~    |
+| ~~Notification of acceptance~~                                                                   | ~~August 30, 2024~~    |
+| **[Camera Ready Version of Papers Due](cfp.md#camera-ready-instructions)**                       | **September 30, 2024** |
+| MMSR '24 Full Day Workshop                                                                       | **October 25, 2024**   |
