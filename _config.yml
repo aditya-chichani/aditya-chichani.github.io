@@ -12,6 +12,7 @@ navbar-links:
   Call for Papers: "cfp"
   Accepted Papers: "accepted"
   Organizers: "organizers"
+  Schedule: "index#schedule"
 
 ################
 # --- Logo --- #
