@@ -9,9 +9,10 @@ author: For queries, please reach out to aditya_chichani@berkeley.edu
 
 navbar-links:
   Home: "index"
-  About Me: "index#About me"
-  Publications & Workshops: "index#Publications & Workshops"
-  Skills: "index#Skills"
+  About Me: "index#about-me"
+  Publications: "index#publications"
+  Workshops: "index#workshops"
+  Skills: "index#skills"
 
 ################
 # --- Logo --- #
