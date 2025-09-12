@@ -1,4 +1,4 @@
-title: CIKM MMSR '24
+title: Aditya Chichani
 
 # Your name to show in the footer
 author: For queries, please reach out to aditya_chichani@berkeley.edu
@@ -9,10 +9,9 @@ author: For queries, please reach out to aditya_chichani@berkeley.edu
 
 navbar-links:
   Home: "index"
-  Schedule: "index#schedule"
-  Call for Papers: "cfp"
-  Accepted Papers: "accepted"
-  Organizers: "organizers"
+  About Me: "index#About me"
+  Publications & Workshops: "index#Publications & Workshops"
+  Skills: "index#Skills"
 
 ################
 # --- Logo --- #
@@ -38,32 +37,33 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "aditya_chichani@berkeley.edu"
-# twitter: daattali
-# patreon: DeanAttali
-# youtube: "@daattali"
-# whatsapp: 15551212
-#  medium: yourname
-#  reddit: yourname
-#  linkedin: daattali
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
-#  telegram: yourname
-#  calendly: yourname
-#  mastodon: instance.url/@username
-#  bluesky: yourname
-#  ORCID: your ORCID ID
-#  google-scholar: your google scholar
-#  discord: "invite_code" or "users/userid" or "invite/invite_code"
-#  kaggle: yourname
-#  hackerrank: yourname
-#  gitlab: yourname
+  linkedin: aditya-chichani
+  github: aditya-chichani
+  # twitter: daattali
+  # patreon: DeanAttali
+  # youtube: "@daattali"
+  # whatsapp: 15551212
+  #  medium: yourname
+  #  reddit: yourname
+  #  xing: yourname
+  #  stackoverflow: "3943160/daattali"
+  #  snapchat: deanat78
+  #  instagram: deanat78
+  #  spotify: yourname
+  #  telephone: +14159998888
+  #  steam: deanat78
+  #  twitch: yourname
+  #  yelp: yourname
+  #  telegram: yourname
+  #  calendly: yourname
+  #  mastodon: instance.url/@username
+  #  bluesky: yourname
+  #  ORCID: your ORCID ID
+  #  google-scholar: your google scholar
+  #  discord: "invite_code" or "users/userid" or "invite/invite_code"
+  #  kaggle: yourname
+  #  hackerrank: yourname
+  #gitlab: yourname
 #  itchio: yourname
 #  untappd: yourname
 
@@ -110,7 +110,7 @@ excerpt_length: 50
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-keywords: "cikm,mmsr,multimedia,search,recommendations,retrieval,conference"
+keywords: "aditya chichani,machine learning,engineer,berkeley,speaker,sigir,cikm,icdm,recsys,multimedia,search,recommendations,retrieval,conference"
 
 ######################################
 # --- Colours / background image --- #
