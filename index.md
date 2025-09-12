@@ -13,9 +13,12 @@ subtitle: ""
 ## About Me
 
 I am a Senior Machine Learning Engineer at Walmart, where I design and launch production-grade ML models and scalable systems that power search for millions of shoppers. My work focuses on ranking, retrieval, intent understanding, and bridging gaps in product attribute comprehension. Several initiatives I’ve led have driven significant GMV lifts and relevance gains across Walmart Search.
+
 Before Walmart, I worked as a Software Engineer at Barclays, developing scalable microservices and real-time payment solutions for major clients such as Amazon.
+
 I hold a Master’s degree in Electrical Engineering & Computer Sciences (EECS) from UC Berkeley, where I specialized in Data Science. I also spent time at the Berkeley Artificial Intelligence Research (BAIR) Lab, working on few-shot learning in NLP using semi-supervised methods under [Prof. Michael Mahoney](https://scholar.google.com/citations?user=QXyvv94AAAAJ&hl=en) and Francisco Utrera.
-Along the way, I have received Excellence Awards at Walmart and Barclays, as well as the Fung Excellence Scholarship at UC Berkeley. I actively mentor affinity groups in AI and Data Science at UC Berkeley and stay engaged with the research community through top IR conferences such as SIGIR, ICDM, CIKM, and RecSys.
+
+I have received Excellence Awards at Walmart and Barclays, as well as the Fung Excellence Scholarship at UC Berkeley. Beyond work, I mentor UC Berkeley affinity groups in AI and Data Science and stay active in the research community through conferences such as SIGIR, ICDM, CIKM, and RecSys.
 
 ---
 
