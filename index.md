@@ -27,21 +27,24 @@ I have received Excellence Awards at Walmart and Barclays, as well as the Fung E
 - **Advancing Recommender Systems by Mitigating Shilling Attacks** – IEEE ICCCNT 2018  
   Authors: Aditya Chichani, Juzer Golwala, Tejas Gundecha, Kiran Gawande  
   [[Paper](https://arxiv.org/pdf/2404.16177)] [[Code](https://github.com/aditya-chichani/advancing-recommender-systems-by-mitigating-shilling-attacks)]  
-  _Stay tuned for my upcoming chat about Shilling Attacks on the [Data Skeptic Podcast](https://dataskeptic.com/)._ :)
+  _My talk about this paper with Kyle Polich on the Data Skeptic Podcast:_  
+  🔗 [Episode Page](https://lnkd.in/gGKWR6ZX)  
+  🔴 [YouTube](https://lnkd.in/gRQCsHrM)  
+  🎧 [Apple Podcasts](https://lnkd.in/gmmwne_6)
 
-- **Roadmap to Renewable Energy: Integrating Science, Business and AI** – Springer Nature (upcoming book)  
+- **Roadmap to Renewable Energy: Integrating Science, Business and AI** – Springer Nature (Now available for pre-order!)  
   Authors: Disha Gupta, Daniel J. Soeder, Aditya Chichani  
-  [[Sneak Peek](https://github.com/dishagupta0/roadmap-to-renewable-energy)]
+  [[Walmart](https://www.walmart.com/ip/The-Roadmap-to-Renewable-Energy-Integrating-Science-Business-and-AI-for-a-Sustainable-Future-Hardcover-9783032096081/17933317060)]  
+  [[Amazon](https://www.amazon.com/Roadmap-Renewable-Energy-Integrating-Sustainable/dp/3032096081/)]
 
 ---
 
 ## Workshops
 
-### ICDM 2025 – Workshop on Multimodal Search and Recommendations (MMSR ’25, Upcoming)
+### ICDM 2025 – Workshop on Multimodal Search and Recommendations (MMSR ’25)
 
 - Workshop Chairs: Aditya Chichani, Surya Kallumadi, Tracy Holloway King, Yubin Kim, Andrei Lopatenko
 - [[Website](https://icdm-mmsr.github.io/)]
-  _Let’s connect if you’ll be attending ICDM in person!_
 
 ### SIGIR 2025 – Workshop on eCommerce (SIGIR eCOM ’25)
 
