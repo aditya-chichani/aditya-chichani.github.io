@@ -27,15 +27,15 @@ I have received Excellence Awards at Walmart and Barclays, as well as the Fung E
 - **Advancing Recommender Systems by Mitigating Shilling Attacks** – IEEE ICCCNT 2018  
   Authors: Aditya Chichani, Juzer Golwala, Tejas Gundecha, Kiran Gawande  
   [[Paper](https://arxiv.org/pdf/2404.16177)] [[Code](https://github.com/aditya-chichani/advancing-recommender-systems-by-mitigating-shilling-attacks)]  
-  _My talk about this paper with Kyle Polich on the Data Skeptic Podcast:_  
-  🔗 [Episode Page](https://lnkd.in/gGKWR6ZX)  
-  🔴 [YouTube](https://lnkd.in/gRQCsHrM)  
-  🎧 [Apple Podcasts](https://lnkd.in/gmmwne_6)
+  _My talk about this paper with Kyle Polich on the [Data Skeptic Podcast](https://dataskeptic.com/):_  
+  🔗 [Episode Page](https://dataskeptic.com/blog/episodes/2025/shilling-attacks-on-recommender-systems)  
+  🔴 [YouTube](https://youtu.be/_53s4wabd8Q?si=7jWECo-DfwLENFdG)  
+  🎧 [Apple Podcasts](https://podcasts.apple.com/us/podcast/shilling-attacks-on-recommender-systems/id890348705?i=1000735399838)
 
 - **Roadmap to Renewable Energy: Integrating Science, Business and AI** – Springer Nature (Now available for pre-order!)  
   Authors: Disha Gupta, Daniel J. Soeder, Aditya Chichani  
-  [[Walmart](https://www.walmart.com/ip/The-Roadmap-to-Renewable-Energy-Integrating-Science-Business-and-AI-for-a-Sustainable-Future-Hardcover-9783032096081/17933317060)]  
-  [[Amazon](https://www.amazon.com/Roadmap-Renewable-Energy-Integrating-Sustainable/dp/3032096081/)]
+  [[Pre-order on Walmart](https://www.walmart.com/ip/The-Roadmap-to-Renewable-Energy-Integrating-Science-Business-and-AI-for-a-Sustainable-Future-Hardcover-9783032096081/17933317060)]  
+  [[Pre-order on Amazon](https://www.amazon.com/Roadmap-Renewable-Energy-Integrating-Sustainable/dp/3032096081/)]
 
 ---
 
